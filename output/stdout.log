@@ -1,0 +1,36 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+Order successful
+Order successful
+Order failed, trying again
+Order successful
+Order failed, trying again
+Order failed, trying again
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order successful
+Order successful
+Order failed, trying again
+Order failed, trying again
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order failed, trying again
+Order successful
+Order successful
+Order failed, trying again
+Order successful
+Order successful
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\E3009863\Documents\my-robot2\output\log.html
